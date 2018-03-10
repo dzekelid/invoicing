@@ -13,8 +13,8 @@ tags:
 - Finance
 - Accounting
 - Accounting
-created: "2018-02-25"
-modified: "2018-02-25"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/invoicing/master/_listings/freshbooks/apis.yaml
 specificationVersion: "0.14"
 apis: []
